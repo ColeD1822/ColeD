@@ -32,6 +32,7 @@
         <li>Metropolitan Community College in Kansas City, Missouri. Dean's list recognition.</li>
         <li>Currently attending the University of Missouri.</li>
        </ul>
+       <img src="https://hosting.photobucket.com/images/i/ColeD18/IMG_2117.PNG?width=285&height=175&crop=fill" />
        <br />
       <div id="sports and activites">
         <h2>Sports and Activites</h2>
@@ -45,7 +46,7 @@
             <li>Harambe FC</li>
             <li><a href="http://alliancefc.soccershift.com/">Alliance FC</a></li>
           </ul>
-          <img src="
+          <img src="https://hosting.photobucket.com/images/i/ColeD18/YDXT4195.JPG" width=300 height4100 />
           <h4>Football</h4>
           <p>I love to watch football on Sunday's when the NFL is on. I like to watch the Chiefs play the most out of any NFL team because they are the most fun to watch.</p>
           <h3>Activites</h3>
