@@ -28,7 +28,7 @@
           <h4><em>Hyvee</em> Produce Clerk:</h4>
           <p>I currently work part-time at a <em>Hyvee</em> in Kansas City, MO. I have worked there since 2019. My role as a produce clerk is to stock produce and handle customer service. I have learned organization, communication, and teamwork skills during my time working at Hyvee which will have major benefits for my future employment.</p>
           <h4>North Kansas City School District Volunteering:</h4>
-          <p>In 2018, I voluteered as a tutor in after school programs for elementary students. After I volunteered, I recieved an A+ scholarship which can be used for 2 years of free community college in Missouri. I learned leadership skills suring my time as a volunteer.</p>
+          <p>In 2018, I voluteered as a tutor in after school programs for elementary students. After I volunteered, I recieved an A+ scholarship which can be used for 2 years of free community college in Missouri. I learned leadership skills during my time as a volunteer.</p>
           <br />
           <h3>Education</h3>
           <ul>
@@ -58,7 +58,7 @@
         <br />
     <div id="summary">
           <h2>Summary</h2>
-          <p>Im excited to see where my career in IT will take me. I have 2 years left of college and I'm looking forward to what I have planned in the future. I want to make a difference in the world with the skills I have learned so far throguhout my years of schooling.</p>
+          <p>Im excited to see where my career in IT will take me. I have 2 years left of college and I'm looking forward to what I have planned in the future. I want to make a difference in the world with the skills I have learned so far throughout my years of schooling.</p>
           <h6>One of my Goals in Highschool:</h6>
           <video src="https://user-images.githubusercontent.com/89539508/138529205-2792a968-8648-4f2f-a044-bf00fd2cf5c8.mp4" width=2100 height=50 />
 </body>
