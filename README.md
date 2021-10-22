@@ -5,13 +5,16 @@
   </head>
   
   <body>
+    p{
+    font-family:Arial;
+    font-size:20px;
+    }
     <h1>About Me: Cole Dennis</h1>
     <nav>
       <ul>
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="work experience and education">Work Experience and Education</a></li>
         <li><a href="sports and activities">Sports and Activites</a></li>
-        <li><a href="Pictures and Media">Pictures and Media</a></li>
        </ul>
      </nav>
      <div id="introduction">
@@ -21,8 +24,8 @@
      <div id="work experience and education">
        <h2>Work Experience and Education</h2>
        <h3>Work Experience</h3>
-       <h4>Hyvee Produce Clerk:</h4>
-       <p>I currently work part-time at a hyvee in Kansas City, MO. I have worked there since 2019. My role as a produce clerk is to stock produce and handle customer service. I have learned organization, communication, and teamwork skills during my time working at Hyvee which will have major benefits for my future employment.</p>
+       <h4><em>Hyvee</em> Produce Clerk:</h4>
+       <p>I currently work part-time at a <em>Hyvee</em> in Kansas City, MO. I have worked there since 2019. My role as a produce clerk is to stock produce and handle customer service. I have learned organization, communication, and teamwork skills during my time working at Hyvee which will have major benefits for my future employment.</p>
        <h4>North Kansas City School District Volunteering:</h4>
        <p>In 2018, I voluteered as a tutor in after school programs for elementary students. After I volunteered, I recieved an A+ scholarship which can be used for 2 years of free community college in Missouri. I learned leadership skills suring my time as a volunteer.</p>
        <br />
@@ -38,7 +41,7 @@
         <h2>Sports and Activites</h2>
         <h3>Sports:<h3>
           <h4>Soccer</h4>
-          <p>I played club soccer in Kansas City all throughout elementary, middle, and high school. I played varsity soccer for Staley. My position was a #9 forward and a #7 winger/attacker. Soccer is my favorite and most passionate sport. If I am not playing, I am watching my favorite teams play on Saturday's or during the week when Champions League games are on. In Europe, FC Barcelona and Chelsea Football Club are my favorite teams to watch. Soccer is not like any other sport with the passion and effort that is put into it which is why I respect the game so much.</p>
+          <p>I played club soccer in Kansas City all throughout elementary, middle, and high school. I played varsity soccer for Staley. My position was a <b>#9</b> forward and a <b>#7</b> winger/attacker. Soccer is my favorite and most passionate sport. If I am not playing, I am watching my favorite teams play on Saturday's or during the week when Champions League games are on. In Europe, FC Barcelona and Chelsea Football Club are my favorite teams to watch. Soccer is not like any other sport with the passion and effort that is put into it which is why I respect the game so much.</p>
           <h5>List of Clubs I've Played For:</h5>
           <ul>
             <li>KC Barcelona</li>
@@ -47,11 +50,18 @@
             <li><a href="http://alliancefc.soccershift.com/">Alliance FC</a></li>
           </ul>
           <img src="https://hosting.photobucket.com/images/i/ColeD18/YDXT4195.JPG" width=300 height4100 />
+          <h6>One of my Goals in High School:</h6>
+          <video src="https://user-images.githubusercontent.com/89539508/138529205-2792a968-8648-4f2f-a044-bf00fd2cf5c8.mp4" width=4100 height=300 />
           <h4>Football</h4>
           <p>I love to watch football on Sunday's when the NFL is on. I like to watch the Chiefs play the most out of any NFL team because they are the most fun to watch.</p>
           <h3>Activites</h3>
-          <p>In high school, I was in band for a semester. I played the trumpet but I wasn't very good at it.</p>
+          <p>In high school, I was in band for a semester.</p>
       <br />
+      <h2>Summary</h2>
+          <p>Im excited to see where my career in IT will take me. I have 2 years left of college and I'm looking forward to what I have planned in the future. I want to make a difference in the world with the skills I have learned so far throguhout my years of schooling.</p>
+</body>
+</html>
+          
       
             
           
