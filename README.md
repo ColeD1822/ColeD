@@ -14,7 +14,8 @@
       <ul>
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="#work">Work Experience and Education</a></li>
-        <li><a href="#sports">Sports and Activites</a></li>
+        <li><a href="#sports">Sports</a></li>
+        <li><a href="#activities">Activites</a></li>
         <li><a href="#summary">Summary</a></li>
        </ul>
      </nav>
@@ -53,8 +54,9 @@
             <img src="https://hosting.photobucket.com/images/i/ColeD18/YDXT4195.JPG" width=300 height4100 />
             <h4>Football</h4>
             <p>I love to watch football on Sunday's when the NFL is on. I like to watch the Chiefs play the most out of any NFL team because they are the most fun to watch.</p>
+            <div id="activites">
             <h3>Activites</h3>
-            <p>In high school, I was in band for a semester.</p>
+            <p>In high school, I was in band for a semester. I play a lot of video games on my personal computer and it is one of my favorite passtimes.</p>
         <br />
     <div id="summary">
           <h2>Summary</h2>
